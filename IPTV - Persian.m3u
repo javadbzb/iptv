@@ -1,6 +1,6 @@
 ﻿#EXTINF:-1 tvg-id="4Sports.fr" tvg-logo="https://i.ibb.co/RTVXW2gj/Screenshot-2025-05-18-231648.png" group-title="Iran",4Sport
 https://pepsi.abntv.live/hls/4spstream.m3u8
-#EXTINF:-1 tvg-id="4UTV.tr" tvg-logo="https://i.imgur.com/PexhKwp.png" group-title="Iran",4U TV (720p)
+#EXTINF:-1 tvg-id="4UTV.tr" tvg-logo="https://uploadkon.ir/uploads/339a02_25unnamed.png" group-title="Iran",4U TV noFilter
 https://hls.4utv.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="247BoxTV.ir" tvg-logo="https://i.imgur.com/t5AUthL.png" group-title="Iran",247 Box TV
 https://hls.247box.live/hls/stream.m3u8
@@ -306,3 +306,4 @@ https://hls.yourtime.live/hls/stream.m3u8
 https://ncdn.telewebion.com/zagros/live/playlist.m3u8
 #EXTINF:-1 tvg-id="gemFilm.ir" tvg-logo="https://upload.wikimedia.org/wikipedia/fa/thumb/e/e4/Kermanshah_Zaghros.svg/240px-Kermanshah_Zaghros.svg.png" group-title="Iran",GemFilm
 https://ca-rt.onetv.app/gemfilm/index-0.m3u8
+
